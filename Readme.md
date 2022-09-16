@@ -17,7 +17,7 @@ Some things to keep in mind:
 
 * You should be able to complete the task within 2 hours.
 
-Please share the task with the following details once you have finished the exercise:
+Please share the task with the following details once you have finished the exercise:g
 1. A GitHub/Bitbucket/Gitlab repo link containing the source code.
 2. An endpoint where the application is deployed where I can try out the application.
 Feel free to make necessary assumptions. Please state those assumptions in your response.

@@ -14,4 +14,4 @@ tweet to md file
 macro-2
 frwk: Nextjs
 orm: prisma || reactQuery 
-styling: if possible tailwinds
+styling: if possible tailwind

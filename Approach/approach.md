@@ -11,3 +11,7 @@ get(data)-> check: urls (ok|error)
 filter and search json 
 tweet to md file 
 
+macro-2
+frwk: Nextjs
+orm: prisma || reactQuery 
+styling: if possible tailwinds
